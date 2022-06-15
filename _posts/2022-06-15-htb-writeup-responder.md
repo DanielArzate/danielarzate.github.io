@@ -1,8 +1,11 @@
 ---
 layout: single
 title: Responder - Hack The Box
+excerpt: "asdasdad"
 date: 2022-06-15
 classes: wide
+header:
+
 categories:
   - hackthebox
   - infosec
@@ -18,7 +21,7 @@ tags:
 
 Realizamos un escaneo de ==nmap== para identificar los puertos abiertos y servicios.
 
-```
+```nmap
 nmap -v -p- --min-rate 5000 -sV -sC {target ip}
 ```
 
