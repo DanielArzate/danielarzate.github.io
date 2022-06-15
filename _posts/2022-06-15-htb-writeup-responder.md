@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Responder - Hack The Box
-date: 2022-06-15 15:00:00
+date: 2022-06-15
 classes: wide
 categories:
   - hackthebox
