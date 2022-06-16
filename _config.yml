@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "snowscan.io"
+title                    : "epsylon.io"
 title_separator          : "-"
-name                     : "Snowscan"
+name                     : "Epsylon"
 description              : "Posts about security, CTFs and networking"
 url                      : "https://danielarzate.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
